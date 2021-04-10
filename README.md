@@ -1,5 +1,5 @@
 # Leoxia.AutoDoc
-Visual Studio extension for automatic documentation for C# code.
+Visual Studio extension for automatic documentation of C# code.
 
 ## Supported
 
